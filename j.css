@@ -1,0 +1,78 @@
+.me{
+  float: right;
+  width: 40px;
+  height: 42px;
+}
+.r{
+  margin: 0;
+  padding:0;
+  list-style: none;
+}
+.u{
+  display: block;
+  /* color: red; */
+  float: left;
+}
+.chan{
+  display:none;
+}
+/* .d:hover{
+  background-color: yellow;
+} */
+.d:hover .chan{display:block; background-color: rgba(23, 83, 126, 0.111);}
+.chan:hover{
+  color: rgb(230, 0, 255);
+}
+li a{
+  display: block;
+  font-size: 50px;
+  text-decoration: none;
+  padding: 30px 20px;
+}
+/* a:hover
+{
+  background-color: yellow;
+  color:white;
+} */
+
+
+h1{
+color:rgb(160, 212, 236);
+background-color:rgb(73, 16, 96);
+font-size:50pt;
+}
+p{
+font-style:italic;
+font-size:30pt;
+}
+
+h2{
+  background-color: rgb(108, 52, 121);
+  font-size:35pt;
+}
+ul{
+	font-size:25pt;
+}
+.j{
+  background-color: rgb(108, 52, 121);
+}
+tr{
+  font-style:oblique;
+  font-weight: bold;
+  font-size: 20pt;
+}
+h3{
+  background-color: rgb(108, 52, 121);
+  font-size: 30pt;
+
+}
+a{
+  font-size: 20pt;
+}
+h4{
+  background-color: rgb(108, 52, 121);
+  font-size: 25pt;
+}
+ol{
+  font-size: 25pt;
+}
